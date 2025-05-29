@@ -1,0 +1,25 @@
+Questions - :
+
+** Project Based Questions-:
+* What is the scope of the project? Why did you choose the same?
+* Can you walk me through the most challenging technical problem you encountered in your project and how you resolved it?
+* What specific technologies did you use, and why did you choose them for this project?
+* Did you encounter any performance issues? How did you identify and address them?
+* Can you explain a situation where you had to make a critical decision that impacted the project's direction?
+* How did you manage version control and collaboration in your project?
+* Were there any trade-offs you had to make while working on the project? How did you prioritise?
+* Describe a piece of feedback you received on your project and how you implemented it.
+* What would you do differently if you were to start this project over again?
+
+** Design and Architecture-:
+* Can you explain the architecture of your project? Why was it designed this way?"
+* How did you ensure the scalability and security of your project?"
+* How did you collaborate with other team members on this project? Can you give an example of how you resolved a conflict or a disagreement?"
+* Describe a situation where you had to incorporate feedback from others into your project.
+
+
+** Team Collaboration-:
+* How did you collaborate with other team members on this project? Can you give an example of how you resolved a conflict or a disagreement?"
+* "Describe a situation where you had to incorporate feedback from others into your project."
+* What was your contribution to the project?
+
